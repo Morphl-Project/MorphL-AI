@@ -1,6 +1,8 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Morphl-Project/media-kit/master/05%20-%20Banners/morphl-banner-color.png" style="width:1200px; height: auto;" />
 </div>
+[![Backers on Open Collective](https://opencollective.com/morphl/backers/badge.svg)](#backers)
+ [![Sponsors on Open Collective](https://opencollective.com/morphl/sponsors/badge.svg)](#sponsors) 
 
 # What is MorphL
 
@@ -51,6 +53,36 @@ The code that you'll find in this repository is a mirror that we use for making 
 
 
 This is project is currently under development. You can read more about it here: https://morphl.io. Follow us on Twitter: https://twitter.com/morphlio. Join our Slack community and chat with other developers: http://bit.ly/morphl-slack
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/undefined/undefinedgraphs/contributors"><img src="https://opencollective.com/morphl/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/morphl#backer)]
+
+<a href="https://opencollective.com/morphl#backers" target="_blank"><img src="https://opencollective.com/morphl/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/morphl#sponsor)]
+
+<a href="https://opencollective.com/morphl/sponsor/0/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/1/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/2/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/3/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/4/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/5/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/6/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/7/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/8/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/morphl/sponsor/9/website" target="_blank"><img src="https://opencollective.com/morphl/sponsor/9/avatar.svg"></a>
+
+
 
 ## License
 
